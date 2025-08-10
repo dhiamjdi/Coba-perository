@@ -1,4 +1,5 @@
 #Tugas 3
+#Edited by user lain
 
 siswa = ["dhia", "raffa", "mail", "fizi", "jarjit", "stevan"]
 
