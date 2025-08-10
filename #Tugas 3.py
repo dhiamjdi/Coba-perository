@@ -1,6 +1,6 @@
 #Tugas 3
 
-siswa = ["dhia", "raffa", "mail", "fizi", "jarjit"]
+siswa = ["dhia", "raffa", "mail", "fizi", "jarjit", "stevan"]
 
 hadir = []
 jumlah = int(input("berapa jumlah siswa yang hadir: "))
