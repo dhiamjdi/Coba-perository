@@ -17,6 +17,11 @@ for i in range(jumlah):
             tugas = input("apakah sudah mengumpulkan tugas hari ini? (ya/tidak)")
             if tugas == "ya":
                 print("mantap,selamat kau")
+                semangat = input("apakah kamu semangat hari ini?")
+                if semangat == "ya":
+                    print("bagus pertahankan !!")
+                else:
+                    print("semangat dongg")
             else:
                 print("matilah kau, cepat kerjakan sekarang!")
         else:
